@@ -1,0 +1,33 @@
+    {
+      "letter_map": {
+        "Z": 1,
+        "Y": 2,
+        "X": 4,
+        "W": 5,
+        "V": 7,
+        "U": 8,
+        "T": 10,
+        "S": 11,
+        "R": 14, 
+        "Q": 33,
+        "P": 29,
+        "O": 27,
+        "N": 26,
+        "M": 24,
+        "L": 23,
+        "K": 21,
+        "J": 19,
+        "I": 18,
+        "H": 37,
+        "G": 39,
+        "F": 40,
+        "E": 42,
+        "D": 44,
+        "C": 46,
+        "B": 48,
+        "A": 49
+      },
+      "number_of_leds": 50,
+      "firebase_db_url": "https://ENTER-YOUR-FIREBASE-HERE.firebaseio.com/"      
+    }
+

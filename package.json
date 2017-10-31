@@ -1,0 +1,17 @@
+{
+  "name": "stranger_things_wall",
+  "version": "1.0.0",
+  "description": "These programs integrate with neopixels to create a stranger things wall that can be text messaged through Twilio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre S Burton",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.5.2",
+    "firebase-admin": "^5.4.2",
+    "rpi-ws281x-native": "^0.8.2",
+    "sleep": "^5.1.1"
+  }
+}
