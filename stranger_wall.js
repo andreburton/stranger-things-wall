@@ -23,7 +23,7 @@ function execute() {
     
     // Read in the strand position to light mapping.
     var fs = require("fs");
-    var config = JSON.parse(fs.readFileSync("stranger_wall_config.json"));
+    var config = JSON.parse(fs.readFileSync("stranger_wall_config_pub.json"));
     var letters = config.letter_map;
     if (mode == 'debug') {
       console.log(MODE_DEBUG_PREFIX + 'initializing the firebase connection.');
